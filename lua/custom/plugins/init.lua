@@ -4,5 +4,5 @@
 -- See the kickstart.nvim README for more information
 
 return {
-  'Masgharoth/match-close.nvim',
+  { 'Masgharoth/match-close.nvim', opts = {} },
 }
